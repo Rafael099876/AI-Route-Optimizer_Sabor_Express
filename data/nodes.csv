@@ -1,7 +1,61 @@
-node_id,x,y
-1,-23.5505,-46.6333
-2,-23.5561,-46.648
-3,-23.5569,-46.6345
-4,-23.601,-46.6623
-5,-23.5893,-46.6342
-6,-23.567,-46.695
+node_id,x,y,area
+1,0.00,0.00,Rodovia Central
+2,-1.50,0.00,Rodovia Central
+3,1.50,0.00,Rodovia Central
+4,-2.00,0.00,Rodovia Central
+5,2.00,0.00,Rodovia Central
+6,-1.75,1.75,Jardim das Flores
+7,-1.25,1.75,Jardim das Flores
+8,-0.75,1.75,Jardim das Flores
+9,-0.25,1.75,Jardim das Flores
+10,0.25,1.75,Jardim das Flores
+11,0.75,1.75,Jardim das Flores
+12,1.25,1.75,Jardim das Flores
+13,1.75,1.75,Jardim das Flores
+14,-1.75,1.25,Jardim das Flores
+15,-1.25,1.25,Jardim das Flores
+16,-0.75,1.25,Jardim das Flores
+17,-0.25,1.25,Jardim das Flores
+18,0.25,1.25,Jardim das Flores
+19,0.75,1.25,Jardim das Flores
+20,1.25,1.25,Jardim das Flores
+21,1.75,1.25,Jardim das Flores
+22,-1.75,0.75,Jardim das Flores
+23,-1.25,0.75,Jardim das Flores
+24,-0.75,0.75,Jardim das Flores
+25,-0.25,0.75,Jardim das Flores
+26,0.25,0.75,Jardim das Flores
+27,0.75,0.75,Jardim das Flores
+28,1.25,0.75,Jardim das Flores
+29,1.75,0.75,Jardim das Flores
+30,-0.50,0.25,Jardim das Flores
+31,0.50,0.25,Jardim das Flores
+32,-1.75,-1.75,Vila Nova
+33,-1.25,-1.75,Vila Nova
+34,-0.75,-1.75,Vila Nova
+35,-0.25,-1.75,Vila Nova
+36,0.25,-1.75,Vila Nova
+37,0.75,-1.75,Vila Nova
+38,1.25,-1.75,Vila Nova
+39,1.75,-1.75,Vila Nova
+40,-1.75,-1.25,Vila Nova
+41,-1.25,-1.25,Vila Nova
+42,-0.75,-1.25,Vila Nova
+43,-0.25,-1.25,Vila Nova
+44,0.25,-1.25,Vila Nova
+45,0.75,-1.25,Vila Nova
+46,1.25,-1.25,Vila Nova
+47,1.75,-1.25,Vila Nova
+48,-1.75,-0.75,Vila Nova
+49,-1.25,-0.75,Vila Nova
+50,-0.75,-0.75,Vila Nova
+51,-0.25,-0.75,Vila Nova
+52,0.25,-0.75,Vila Nova
+53,0.75,-0.75,Vila Nova
+54,1.25,-0.75,Vila Nova
+55,1.75,-0.75,Vila Nova
+56,-0.50,-0.25,Vila Nova
+57,0.50,-0.25,Vila Nova
+58,-1.00,0.00,Rodovia Central
+59,1.00,0.00,Rodovia Central
+60,0.00,-0.50,Vila Nova
