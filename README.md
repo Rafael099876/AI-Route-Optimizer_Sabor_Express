@@ -1,5 +1,5 @@
-# Rota Inteligente: Otimização de Entregas com Algoritmos de IA
-Projeto desenvolvido para a disciplina **Artificial Intelligence Fundamentals**.
+# Rota Inteligente: Otimização de Entregas com Algoritmos de IA para Sabor Express
+##Projeto desenvolvido para a disciplina **Artificial Intelligence Fundamentals**.
 
 ## Estrutura do Projeto
 - `/data`: dados de entrada (nós, arestas e pedidos)
