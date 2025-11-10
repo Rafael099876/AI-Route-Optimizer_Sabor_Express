@@ -46,8 +46,8 @@ Essa decisão local, repetida até o fim da rota, gera resultados próximos do m
 
 ---
 
-## Estrutura do Projeto
-
+## 8) Estrutura do projeto
+```
  rota-inteligente/
 │
 ├──  data/
@@ -61,6 +61,7 @@ Essa decisão local, repetida até o fim da rota, gera resultados próximos do m
 │ └── main.ipynb # notebook com o código completo
 │
 └── README.md
+```
 
 ## Execução (Passo a Passo no Google Colab)
 
