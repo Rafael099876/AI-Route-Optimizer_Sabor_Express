@@ -4,6 +4,8 @@
 
 ### Link do Colab (abra e faça uma cópia): [https://colab.research.google.com/drive/13NXAVl2g6UCmmNhda7A3wj1zFDlI5XDb?usp=sharing](https://colab.research.google.com/drive/13NXAVl2g6UCmmNhda7A3wj1zFDlI5XDb?usp=sharing)
 
+### Link do video apresentação/Tutorial: https://youtu.be/KWik-rt5IeE
+
 ## Descrição do Projeto
 Este projeto apresenta uma solução de **otimização de entregas** para a empresa fictícia **Sabor Express**, uma companhia local de delivery que enfrenta dificuldades para gerenciar suas rotas em horários de pico.  
 O objetivo é desenvolver um sistema inteligente que encontre **as melhores rotas de entrega**, reduzindo atrasos e custos, e aumentando a satisfação dos clientes.
