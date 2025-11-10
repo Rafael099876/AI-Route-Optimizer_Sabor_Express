@@ -73,6 +73,7 @@ Essa decisão local, repetida até o fim da rota, gera resultados próximos do m
 
 deve ficar assim dentro do colab:
 
+```
 Arquivos
 │
 ├──  data/
@@ -80,6 +81,7 @@ Arquivos
 │ ├── graph_edges_transito.csv
 │ ├── nodes.csv
 │ ├── orders.csv
+```
 
 ### após isso, execulte as células na ordem. 
 
